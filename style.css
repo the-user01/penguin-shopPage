@@ -291,7 +291,7 @@ footer{
 
 /* Media Query Starts from here*/
 
-@media (max-width:500px) {
+@media (max-width:750px) {
     .top-sec{
         height: 780px;
         flex-wrap: wrap;
@@ -382,8 +382,7 @@ footer{
     /* Mid section CSS starts from here */
     
     .mid-section{
-        height: 3890px;
-        
+        height: 3820px;
     }
     
     .container2 h1{
